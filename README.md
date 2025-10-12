@@ -1,16 +1,16 @@
-## Hi there 👋
+<!-- Elias' GitHub README.md -->
 
-<!--
-**seboniiix/seboniiix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Elias</h1>
+<h3 align="center">Self-Taught Python Developer</h3>
+<h4 align="center">Specialized in Discord Bots</h4>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="200"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+
+- I’m a **self-taught Python developer** passionate about problem solving and automation.  
+- I enjoy writing clean, efficient, and well-documented Python code.
