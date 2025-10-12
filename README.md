@@ -7,10 +7,3 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="200"/>
 </p>
-
----
-
-### About Me
-
-- I’m a **self-taught Python developer** passionate about problem solving and automation.  
-- I enjoy writing clean, efficient, and well-documented Python code.
