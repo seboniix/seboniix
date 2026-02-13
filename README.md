@@ -1,9 +1,9 @@
-<div align="center">
+<!-- Elias' GitHub README.md -->
 
-# Python Developer
+<h1 align="center">Hi there, I'm Elias</h1>
+<h3 align="center">Self-Taught Python Developer</h3>
+<h4 align="center">Specialized in Discord Bots</h4>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="180"/>
-
-### specializing in Discord Bots
-
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="200"/>
+</p>
